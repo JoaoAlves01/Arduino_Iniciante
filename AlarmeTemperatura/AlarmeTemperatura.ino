@@ -2,7 +2,7 @@ int sensor = 0;
 float temperatura = 0;
 int adc = 0;
 
-int som = 12;
+int som = 13;
 
 void setup() 
 {
